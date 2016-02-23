@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ichneumonologiae01grav/ichneumonologiae01grav_0145.png"; bbox 0 0 1934 3690; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 418 701 1375 760">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 418 701 1375 760">
+     <span class='ocr_line' id='line_1_1' title="bbox 418 701 1375 760; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 418 701 1375 760; x_wconf 85' lang='lat' dir='ltr'><strong>GENUSI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 501 1356 1303 1431">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 501 1356 1303 1431">
+     <span class='ocr_line' id='line_1_2' title="bbox 501 1356 1303 1431; baseline 0.005 -5"><span class='ocrx_word' id='word_1_2' title='bbox 501 1356 1303 1431; x_wconf 89' lang='lat' dir='ltr'><strong>ICHNEUMON.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 36 1576 1773 1884">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 36 1576 1773 1884">
+     <span class='ocr_line' id='line_1_3' title="bbox 137 1576 1769 1660; baseline 0.002 -23"><span class='ocrx_word' id='word_1_3' title='bbox 137 1576 476 1637; x_wconf 87' lang='lat' dir='ltr'>Abdomine</span> <span class='ocrx_word' id='word_1_4' title='bbox 500 1576 803 1659; x_wconf 84' lang='lat' dir='ltr'>petiolato</span> <span class='ocrx_word' id='word_1_5' title='bbox 829 1597 1132 1649; x_wconf 79' lang='lat' dir='ltr'>convex03</span> <span class='ocrx_word' id='word_1_6' title='bbox 1168 1579 1371 1660; x_wconf 84' lang='lat' dir='ltr'>capite</span> <span class='ocrx_word' id='word_1_7' title='bbox 1395 1592 1769 1648; x_wconf 76' lang='lat' dir='ltr'>transver803</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 36 1688 1773 1774; baseline 0.001 -26"><span class='ocrx_word' id='word_1_8' title='bbox 36 1689 304 1748; x_wconf 84' lang='lat' dir='ltr'><strong>scutello</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 327 1688 513 1769; x_wconf 83' lang='lat' dir='ltr'>plano</span> <span class='ocrx_word' id='word_1_10' title='bbox 540 1701 646 1747; x_wconf 86' lang='lat' dir='ltr'>aut</span> <span class='ocrx_word' id='word_1_11' title='bbox 669 1710 971 1759; x_wconf 83' lang='lat' dir='ltr'>convex03</span> <span class='ocrx_word' id='word_1_12' title='bbox 1017 1689 1221 1749; x_wconf 86' lang='lat' dir='ltr'>areola</span> <span class='ocrx_word' id='word_1_13' title='bbox 1244 1691 1557 1772; x_wconf 85' lang='lat' dir='ltr'>plerisque</span> <span class='ocrx_word' id='word_1_14' title='bbox 1590 1692 1773 1774; x_wconf 85' lang='lat' dir='ltr'>quin-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 37 1799 1768 1884; baseline 0.002 -24"><span class='ocrx_word' id='word_1_15' title='bbox 37 1800 517 1884; x_wconf 81' lang='lat' dir='ltr'>que-angulari3</span> <span class='ocrx_word' id='word_1_16' title='bbox 562 1800 825 1880; x_wconf 86' lang='lat' dir='ltr'>(aculeo</span> <span class='ocrx_word' id='word_1_17' title='bbox 846 1799 1206 1860; x_wconf 86' lang='lat' dir='ltr'>abscondito</span> <span class='ocrx_word' id='word_1_18' title='bbox 1229 1814 1333 1861; x_wconf 86' lang='lat' dir='ltr'>aut</span> <span class='ocrx_word' id='word_1_19' title='bbox 1357 1802 1768 1873; x_wconf 78' lang='lat' dir='ltr'><strong>subexserto).</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

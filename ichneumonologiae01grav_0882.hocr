@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ichneumonologiae01grav/ichneumonologiae01grav_0882.png"; bbox 0 0 2492 4024; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1248 353 1930 391">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1248 325 1930 391">
+     <span class='ocr_line' id='line_1_1' title="bbox 1248 353 1930 391; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 1248 354 1488 391; x_wconf 65' lang='lat' dir='ltr'>umvfiasm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1506 354 1552 389; x_wconf 69' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1573 353 1930 389; x_wconf 53' lang='lat' dir='ltr'>tamnus-uanam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1069 421 1952 501">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1069 421 1952 501">
+     <span class='ocr_line' id='line_1_2' title="bbox 1141 421 1769 459; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 1141 421 1200 459; x_wconf 80' lang='lat'><strong>59&#39;5</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1221 426 1339 459; x_wconf 79' lang='grc'>790781</span> <span class='ocrx_word' id='word_1_6' title='bbox 1592 424 1769 457; x_wconf 73' lang='grc' dir='ltr'>0001νοῦῖ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1069 467 1952 501; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1069 474 1096 491; x_wconf 82' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1143 470 1195 501; x_wconf 69' lang='lat' dir='ltr'>!C&gt;⁴</span> <span class='ocrx_word' id='word_1_9' title='bbox 1204 468 1496 501; x_wconf 60' lang='lat' dir='ltr'>NEUMONOLOOEA</span> <span class='ocrx_word' id='word_1_10' title='bbox 1514 467 1952 501; x_wconf 50' lang='lat' dir='ltr'>{UROPEASVRAUSLAVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1221 579 1989 745">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1221 579 1989 745">
+     <span class='ocr_line' id='line_1_4' title="bbox 1221 579 1989 745; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 1221 582 1332 745; x_wconf 94' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_12' title='bbox 1369 579 1989 744; x_wconf 77' lang='grc' dir='ltr'>ΙΙΙΗΙΙΗΙΗΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1243 751 1937 921">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1243 751 1937 921">
+     <span class='ocr_line' id='line_1_5' title="bbox 1243 751 1937 921; baseline -0.006 -112"><span class='ocrx_word' id='word_1_13' title='bbox 1243 829 1249 834; x_wconf 32' lang='lat'>·</span> <span class='ocrx_word' id='word_1_14' title='bbox 1282 754 1317 809; x_wconf 89' lang='grc'>3</span> <span class='ocrx_word' id='word_1_15' title='bbox 1347 751 1937 921; x_wconf 83' lang='grc'>0112010066022</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2146 4024">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2146 4024">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2146 4024; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2146 4024; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
